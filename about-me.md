@@ -5,4 +5,4 @@ Hi I'm Martin from Hamburg Germany. I'm a assistant Coach for the neuefische 21-
 tba
 
 ## My motto
-`code, eat, sleep, repeat`
+`code, eat, repeat`
